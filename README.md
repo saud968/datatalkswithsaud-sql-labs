@@ -58,6 +58,11 @@ A successful validation checks **the supplied SQL and data**, not whether a lear
 
 The solutions have been **executed using Python's SQLite**. They are not claimed to be tested in Snowflake, SQL Server, PostgreSQL, or MySQL. Some syntax (such as `DATE()` or `LIMIT`) must be adapted for those engines. A separate, tested dialect-specific edition may be added later.
 
+## More free DataTalksWithSaud learning projects
+
+- **[Power BI Labs — Sales Data Quality Challenge](https://github.com/saud968/datatalkswithsaud-powerbi-labs)**: work with messy synthetic sales data, document exclusions, and reconcile report totals.
+- **[All learning projects](https://github.com/saud968)**: visit the author's GitHub profile for new free exercises.
+
 ## Share and contribute
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) before proposing changes. Open an issue with a reproducible query/error and expected result. No private company data, credentials, client SQL, or paid course files.
