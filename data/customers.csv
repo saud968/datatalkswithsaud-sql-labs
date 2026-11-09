@@ -1,0 +1,13 @@
+customer_id,customer_name,city,region,signup_date
+C001,Asha Rao,Mumbai,West,2026-06-03
+C002,Rohan Mehta,Pune,West,2026-07-18
+C003,Neha Shah,Delhi,North,2026-05-20
+C004,Imran Ali,Lucknow,North,2026-08-05
+C005,Divya Iyer,Bengaluru,South,2026-04-30
+C006,Karthik Menon,Chennai,South,2026-09-11
+C007,Tara Bose,Kolkata,East,2026-07-05
+C008,Aditya Sen,Bhubaneswar,East,2026-08-15
+C009,Priya Kapoor,Jaipur,North,2026-09-29
+C010,Riya Nair,Kochi,South,2026-10-02
+C011,Farah Khan,Hyderabad,South,2026-10-08
+C012,Vikram Joshi,Ahmedabad,West,2026-10-10

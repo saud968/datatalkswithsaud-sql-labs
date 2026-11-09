@@ -1,0 +1,19 @@
+name: Validate SQL learning lab
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Verify all 12 SQLite solutions against fixtures
+        run: python3 scripts/run_all.py
+      - name: Check source CSV business rules independently
+        run: python3 scripts/audit_source.py
